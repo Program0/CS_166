@@ -1,1 +1,2 @@
-# CS_166
+# Databases
+Group Project for CS 166 
