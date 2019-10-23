@@ -171,7 +171,7 @@ public class DBproject{
 		int rowCount = 0;
 
 		//iterates through the result set and count number of results.
-		if(rs.next()){
+		while(rs.next()){
 			rowCount++;
 		}//end while
 		stmt.close ();
